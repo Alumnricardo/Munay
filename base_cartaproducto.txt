@@ -1,0 +1,12 @@
+
+        <div class="col-sm-3" style="padding-top:10px ;">
+            <div class="card">
+                <img class="cardimage" src="https://img.freepik.com/fotos-premium/trio-organizado-soporte-lapiz-tres-lapices-colores_1135748-3007.jpg?size=626&ext=jpg" alt="Cartuchera"  style="width:100%">
+                <h1>Cartucheras Ejemplo</h1>
+                <p class="price">$1500.99</p>
+                <p>Cartuchera Example Producto</p>
+                <p><button>
+                    <a  href="https://wa.me/542645501605/?text=HOLA%20QUIERO%20COMPRAR%20CARTUCHERA%20EJEMPLO" target="_blank">Comprar</a>
+                </button></p>
+              </div>
+        </div>
