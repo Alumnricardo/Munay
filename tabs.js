@@ -22,3 +22,7 @@ function openCity(evt, cityName) {
 function refreshPage(){
   window.location.reload();
 } 
+
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
